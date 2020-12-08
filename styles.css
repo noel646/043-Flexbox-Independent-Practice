@@ -1,0 +1,45 @@
+.menu1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    padding: 12px;
+    border: purple dashed 12px;
+}
+
+.item1 {
+    padding: 12px;
+    border: red dotted 12px;
+    margin: 3px;
+    background-color: blue;
+}
+
+.menu2 {
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    padding: 12px;
+    border: purple dashed 12px;
+    margin: 4px;
+}
+
+.item2 {
+    padding: 12px;
+    border: red dotted 12px;
+    margin: 3px;
+    background-color: blue;
+}
+
+.menu3 {
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    padding: 12px;
+    border: purple dashed 12px;
+}
+
+.item3 {
+    padding: 12px;
+    border: red dotted 12px;
+    margin: 3px;
+    background-color: blue;
+}
